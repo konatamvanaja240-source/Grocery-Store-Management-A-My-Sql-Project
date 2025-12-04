@@ -1,1 +1,1 @@
-# Grocery-Store-Management-A-My-Sql-Project
+# Grocery-Store-Management-A-MySql-Project
