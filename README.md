@@ -1,6 +1,3 @@
-# Grocery-Store-Management-A-MySql-Project
-- Here is a clean, polished GitHub README titled exactly as you requested: Grocery-Store-Management.
-- Fully structured, professional, and ready to paste into GitHub.
 ## Grocery-Store-Management
 - A complete SQL-based management system designed for handling grocery store operations, including suppliers, products, customers, employees, orders, and sales analytics.
 
